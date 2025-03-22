@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there! 👋 I'm Phyo Thura
 
-<!--
-**phyothurawin/phyothurawin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer | 🎥 Video Editor | 🎨 Motion Graphics Designer
 
-Here are some ideas to get you started:
+I'm a passionate Web Developer transitioning from a Video Editor & Motion Graphics Designer background. With a strong foundation in PHP, Laravel, JavaScript, and React, I'm building dynamic and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 What I Do
+
+🖥️ Web Development – PHP, Laravel, JavaScript, React, HTML, CSS, Bootstrap
+
+🎬 Video Editing & Motion Graphics – Adobe Premiere Pro, After Effects, Photoshop
+
+🎮 Aspiring Game & App Developer
+
+🚀 Current Projects
+
+CV Create – A web app that helps users generate professional CVs
+
+Portfolio Website – Showcasing my projects and skills
+
+📫 Let's Connect
+
+💼Linkedin: https://www.linkedin.com/in/phyo-thura-win/ 
+
+📧 Email: phyothura.lonewolf@gmail.com
+
+Feel free to check out my repositories and collaborate!
